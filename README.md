@@ -49,7 +49,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-## Assignment	🗂️
+## Assignments	🗂️
 
 1. [Assignment 1](https://github.com/angelaleesuing/angela/blob/6286506974ab1988454fb05ad15c7b48df801ad2/Assignment%201%20TIS-Industrial%20talk%201.pdf)
 
@@ -64,7 +64,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 6. [TIS Design Thinking](https://github.com/angelaleesuing/angela/blob/6286506974ab1988454fb05ad15c7b48df801ad2/TIS%20DESIGN%20THINKING.pdf)
 
 
-## Reflection on Assignment📝
+## Reflection on Assignments📝
 ### 1. Assignment 1✍️
 Through this talk, I gained a lot of information about ICT jobs such as the job scope for each career in ICT, technology used in the ICT field and skills needed as a good IT contributor. After getting some advice from the speakers, I have done a self-reflection about our career in the future. Firstly, I should choose our career wisely after we graduate in the future. There are a lot of ICT jobs such as software developer, Android developer, UI/UX designer and web developer. I need to think wisely before making any decision.I also learn to engage more when working in groups to increase the efficiency of tasks. I should also create our own portfolio and arrange our assignments nicely on platforms like Github or LinkedIn to prove that we are able to handle the jobs in the ICT field. As an IT professional and ICT developer, I should keep continuous learning as the technology is constantly evolving.We are encouraged to attend free online classes and workshops about ICT so that we can adapt to this rapidly changing technological landscape .
 
