@@ -92,7 +92,7 @@ Through this, I have been inspired to learn more about data analysisskill. So, n
 
 ### 4. Assignment 4✍️
 
-Dr. Seah Choon Sen's i-Farm presentation really caught my attention with its smart blend of urban farming andtechnology. The idea of bringing fresh veggies to people'sdoorsteps, especially in the face of pandemic-relatedshortages, is not just practical but also forward-thinking. Theuse of IoT and data analytics in the farming process ensureefficiency and freshness. I-Farm helps human life inconvenience and accessibility. I-Farm brings fresh vegetablesdirectly to people's doorsteps, eliminating the need to travel todistant markets. This convenience is particularly beneficial forindividuals with busy schedules, mobility challenges, or thoseliving in areas with limited access to fresh produce.
+Dr. Seah Choon Sen's i-Farm presentation really caught my attention with its smart blend of urban farming andtechnology. The idea of bringing fresh veggies to people'sdoorsteps, especially in the face of pandemic-related shortages, is not just practical but also forward-thinking. Theuse of IoT and data analytics in the farming process ensureefficiency and freshness. I-Farm helps human life inconvenience and accessibility. I-Farm brings fresh vegetables directly to people's doorsteps, eliminating the need to travel to distant markets. This convenience is particularly beneficial for individuals with busy schedules, mobility challenges, or those living in areas with limited access to fresh produce.
 
 ### 5. PC Assemble (Lab)✍️
 
